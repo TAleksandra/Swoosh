@@ -1,4 +1,4 @@
-package com.tatara.swoosh
+package com.tatara.swoosh.controller
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
